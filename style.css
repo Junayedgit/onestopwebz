@@ -1,3 +1,14 @@
 main {
     font-family: "Crimson Text", serif;
 }
+
+.anchor {
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border: 1px solid;
+}
